@@ -1,8 +1,8 @@
-#H2 Online C++ Compiler
+## Online C++ Compiler
 
-Send your C++ code file along with your input, we will compiler your code and send you the output.
+Send your C++ code along with your input, online_cpp_compiler will compiler your code and send you the output.
 
-#H2 Screenshot
+## Screenshot
 
 Output of a simple pattern printing program
 
