@@ -1,6 +1,6 @@
 ## Online C++ Compiler
 
-Send your C++ code along with your input, online_cpp_compiler will compiler your code and send you the output.
+Send your C++ code along with your input, online_cpp_compiler will compile your code and send you the output.
 
 ## Screenshot
 
